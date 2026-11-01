@@ -1,0 +1,1 @@
+请阅读 README.md 中的“上传并发布”。上传解压后的全部内容到仓库根目录，再在 Settings → Pages 选择 main / (root)。
